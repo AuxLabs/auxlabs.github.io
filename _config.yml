@@ -22,7 +22,7 @@ url: https://auxlabs.org
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-analytics-google: 'AIzaSyD4l3Ra_BtrixXLr0sHaPhQaO69w9Gt0lI'
+# analytics-google: ''
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
