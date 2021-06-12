@@ -6,7 +6,7 @@ layout: page
   <img src="../assets/images/profile.png" width="150" height="150" />
   <h1>Commissions</h1>
   <p align="center">
-    I don't have a restriction on which models I texture, but I am more comfortable on some more than others. To request a commission or ask a question you can contact me by dms through Discord at <a href="https://discord.com/users/158056840402436096/">Auxesis#0001</a>.
+    I don't have a restriction on which models I texture, but I am more comfortable painting some over others. To request a commission or ask a question you can contact me by dms through Discord at <a href="https://discord.com/users/158056840402436096/">Auxesis#0001</a>.
   </p>
 </p>
 
