@@ -6,7 +6,7 @@ layout: page
   <img src="../assets/images/profile.png" width="150" height="150" />
   <h1>Commissions</h1>
   <p align="center">
-    I'll put a short description here later :)
+    To request a commission or ask questions you can contact me by dms through <a href="https://discord.com/users/158056840402436096/">Discord</a>. 
   </p>
 </p>
 
