@@ -13,7 +13,7 @@ layout: page
 ---
 
 ## Recolor
-#### $20
+#### $10
 You want a color pallete swap for the base texture of a model or one of my public textures.
 
 ---
