@@ -19,8 +19,8 @@ You want a color pallete swap for the base texture of a model or one of my publi
 ---
 
 ## Mystery Design
-#### $50
-You tell me some keywords or provide a random image and I'll make a unique design based on them.
+#### $20+
+Pay what you want, complexity of the design is based on price. You tell me some keywords or provide a random image and I'll make a unique design based on them.
 
 ---
 
