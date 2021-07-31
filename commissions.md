@@ -59,3 +59,6 @@ You give me a description and/or some images of what you want your texture to lo
 ![Examples](/assets/images/examples.png)
 
 More examples are available on [Twitter](https://twitter.com/auxlabs_), [FurAffinity](https://www.furaffinity.net/user/auxl/), or inside my [VRChat world](https://vrchat.com/home/world/wrld_a52d3f10-78b2-4472-8db4-5702a126aff8).
+
+<script type="text/javascript" src="/js/lightbox.js"></script>
+<link rel="stylesheet" href="/css/lightbox.css">
