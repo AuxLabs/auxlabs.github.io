@@ -6,7 +6,7 @@ layout: page
   <img src="../assets/images/profile.png" width="150" height="150" />
   <h1>Commissions</h1>
   <p align="center">
-    Prices are in USD. I don't have a restriction on which models I texture, but I am more comfortable painting some over others. To request a commission or ask a question you can contact me by dms through Discord at <a href="https://discord.com/users/158056840402436096/">Auxesis#0837</a> or by email <a href="mailto:justin@auxlabs.org?subject=Commission Request">justin@auxlabs.org</a>.
+    Prices are in USD. I don't have a restriction on which models I texture, but I am more comfortable painting some over others. To request a commission or ask a question you can contact me by dms through Discord at <a href="https://discord.com/users/158056840402436096/">Auxesis#0001</a> or by email <a href="mailto:justin@auxlabs.org?subject=Commission Request">justin@auxlabs.org</a>.
   </p>
 </p>
 
